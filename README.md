@@ -4,7 +4,7 @@ A romantic interactive quiz website created for a Valentine's Day surprise.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Interactive quiz experience
 - Memory-based questions
@@ -14,7 +14,7 @@ A romantic interactive quiz website created for a Valentine's Day surprise.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React
 - Vite
@@ -22,7 +22,7 @@ A romantic interactive quiz website created for a Valentine's Day surprise.
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
 ```bash
 npm install
